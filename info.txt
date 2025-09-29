@@ -1,0 +1,12 @@
+Task:
+Make a Home Page for a fictional IELTS Institute using React JS.
+
+Requirements:
+	1.	The design should look modern and professional.
+	2.	The page must be responsive (work well on phone and desktop).
+	3.	Include these sections:
+	•	Navbar (logo + menu links)
+	•	Hero section (headline, sub-text, button, image/banner)
+	•	3–4 feature cards (e.g., Speaking Practice, Mock Tests, AI Band Score)
+	•	Student testimonials (2–3 small reviews)
+	•	Footer (basic links/contact info)
