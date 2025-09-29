@@ -1,4 +1,4 @@
-#🚀 Features
+🚀 #Features
 
 1. Responsive Design – Works seamlessly on desktop and mobile.
 2. Modern UI – Clean layout with professional styling.
@@ -11,13 +11,13 @@
 4. Testimonials – Student reviews to build trust.
 5. Footer – Basic contact/info section.
 
-#🛠️ Tech Stack
+🛠️ #Tech Stack
 
 1. React.js
 2. Tailwind CSS
 3. React Icons
 
-#⚡ Getting Started
+⚡ #Getting Started
 
 1. Clone the repo
   git clone https://github.com/imswag99/demo-ielts-institute.git
