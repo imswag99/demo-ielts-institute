@@ -20,9 +20,9 @@
 ⚡ #Getting Started
 
 1. Clone the repo
-  git clone https://github.com/imswag99/demo-ielts-institute.git
-  cd demo-ielts-institute
+-> git clone https://github.com/imswag99/demo-ielts-institute.git
+-> cd demo-ielts-institute
 2. Install dependencies
-  npm install 
+-> npm install 
 3. Run development server
-  npm run dev
+-> npm run dev
